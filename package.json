@@ -1,6 +1,6 @@
 {
   "name": "@ftbl/validation",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Validation helper library",
   "main": "dist/index",
   "scripts": {
