@@ -1,6 +1,6 @@
 {
-  "name": "@ftbl/validation",
-  "version": "1.0.0",
+  "name": "@recipher/validation",
+  "version": "1.0.1",
   "description": "Validation helper library",
   "main": "dist/index",
   "scripts": {
@@ -16,11 +16,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:projectftbl/validation.git"
+    "url": "git@github.com:recipher/validation.git"
   },
   "dependencies": {},
   "devDependencies": {
-    "@ftbl/gulp": "^1.5.0",
+    "@recipher/gulp": "^1.5.0",
     "babel": "^6.3.26",
     "babel-cli": "^6.4.5",
     "babel-core": "^6.4.5",
